@@ -16,10 +16,3 @@
 
 ### 42Pisine
 [![joushin's 42 stats](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
-### exam 00 [![joushin's 42 C Piscine Exam 00 Score](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/project/2559691)](https://github.com/JaeSeoKim/badge42) exam 01 [![joushin's 42 C Piscine Exam 01 Score](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/project/2566830)](https://github.com/JaeSeoKim/badge42)
-### exam 02 [![joushin's 42 C Piscine Exam 02 Score](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/project/2572855)](https://github.com/JaeSeoKim/badge42)  final exam [![joushin's 42 C Piscine Final Exam Score](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/project/2580547)](https://github.com/JaeSeoKim/badge42)
-
-### BSQ [![joushin's 42 C Piscine BSQ Score](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/project/2573885)](https://github.com/JaeSeoKim/badge42) rush00 [![joushin's 42 C Piscine Rush 00 Score](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/project/2560133)](https://github.com/JaeSeoKim/badge42)
-
-### rush01 [![joushin's 42 C Piscine Rush 01 Score](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/project/2566834)](https://github.com/JaeSeoKim/badge42) rush02 [![joushin's 42 C Piscine Rush 02 Score](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/project/2576912)](https://github.com/JaeSeoKim/badge42)
