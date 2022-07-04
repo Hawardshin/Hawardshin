@@ -1,7 +1,7 @@
 ## Hey 👋, This is haward(joushin)
 ![](https://visitor-badge.glitch.me/badge?page_id=hawardshin)
 
-[![Gmail Badge](https://img.shields.io/badge/-wnddms12345@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wnddms12345@naver.com)](mailto:wnddms12345@naver.com) [![Github Badge](https://img.shields.io/badge/-hawardshin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hawardshin/)](https://www.github.com/hawardshin/)<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white"><p align='left'>안녕하세요 조신입니다.</p>
+[![Gmail Badge](https://img.shields.io/badge/-wnddms12345@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wnddms12345@naver.com)](mailto:wnddms12345@naver.com) [![Github Badge](https://img.shields.io/badge/-hawardshin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hawardshin/)](https://www.github.com/hawardshin/)<p align='left'>안녕하세요 조신입니다.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hawardshin alt=hawardshin /> </p>
 
