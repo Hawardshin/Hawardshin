@@ -17,6 +17,7 @@
 
 ## 🏆 AWARDS & CERT
 <ul>
+<li>대전 광역시 제 16회 휴머로이드 로봇 스포츠대회 대전광역시교육감상 (2019) </li>
 <li>국제 휴머로이드 로봇대회 international robot contest (IRC) 지능형 부문 국가기술표준원장상 (2019) </li>
 </ul>
 
