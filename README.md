@@ -2,7 +2,8 @@
 
 <p align='left'>안녕하세요 조신입니다.</p>
 <p align='left'>시간 날 때 하려 하면 영원히 미루게 된다고 생각합니다.</p>
-<p align='left'>아직은 그저 코드를 짜는 것 자체가 행복하기에 코딩을 하고 있고 이 일을 업으로 삼고 싶습니다.</p>
+<p align='left'>아직은 그저 컴퓨터의 매력에 빠져들고 있는 상태이고 기본기가 탄탄한 개발자가 되고 싶습니다.</p>
+
 ## Some of my Github Stats
 [![Gmail Badge](https://img.shields.io/badge/-wnddms12345@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wnddms12345@naver.com)](mailto:wnddms12345@naver.com) [![Github Badge](https://img.shields.io/badge/-hawardshin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hawardshin/)](https://www.github.com/hawardshin/)[![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
