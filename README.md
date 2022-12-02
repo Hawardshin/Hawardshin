@@ -14,9 +14,10 @@
 <li> 42Seoul La Piscine (2022.04 ~ 2021.05) </li>
 <li> 42Seoul Cadet (2021.7 ~ )</li>
 </ul>
-### 🏆 AWARDS & CERT
-- **국제 휴머로이드 로봇대회 international robot contest (IRC) 지능형 부문 국가기술표준원장상**
-
+## 🏆 AWARDS & CERT
+<ul>
+<li>국제 휴머로이드 로봇대회 international robot contest (IRC) 지능형 부문 국가기술표준원장상 </li>
+</ul>
 ### baekjoon
 
 [![Solved.ac
