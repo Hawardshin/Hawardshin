@@ -10,7 +10,12 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
-
+## ✏️ Education
+<ul>
+<li> Seoul National University of Science and Technology(Seoultech), Department of Mechanical System Design Engineering (2019.03 ~ 2019.12) + (2022.09 ~ now)  </li>
+<li> 42Seoul La Piscine (2022.04 ~ 2021.05) </li>
+<li> 42Seoul Cadet (2021.7 ~ )</li>
+</ul>
 ###  42Seoul
 [![joushin's 42 stats](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
