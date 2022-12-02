@@ -16,7 +16,7 @@
 </ul>
 ## 🏆 AWARDS & CERT
 <ul>
-<li>국제 휴머로이드 로봇대회 international robot contest (IRC) 지능형 부문 국가기술표준원장상 </li>
+<li>국제 휴머로이드 로봇대회 international robot contest (IRC) 지능형 부문 국가기술표준원장상 (2019) </li>
 </ul>
 ### baekjoon
 
