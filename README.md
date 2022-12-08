@@ -12,7 +12,7 @@
 <ul>
 <li> Seoul National University of Science and Technology(Seoultech), Department of Mechanical System Design Engineering (2019.03 ~ 2019.12) + (2022.09 ~ now)  </li>
 <li> I will change my major to Computer Engineering.</li>
-<li> 42Seoul La Piscine (2022.04 ~ 2021.05) </li>
+<li> 42Seoul La Piscine (2022.04 ~ 2022.05) </li>
 <li> 42Seoul Cadet (2021.7 ~ )</li>
 </ul>
 
