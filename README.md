@@ -1,9 +1,6 @@
 ## Hey 👋, This is haward(joushin)
 
-<p align='left'>안녕하세요 신중은(조신)입니다.</p>
-<p align='left'>생각을 현실로 만드는 태도를 가지고 살아갑니다.</p>
-
-  
+<p align='left'>hi I This is joong eun shin.</p>
 ## Contact me
  
  
