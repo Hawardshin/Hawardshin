@@ -11,12 +11,10 @@
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hawardshin alt=hawardshin /> 
 </p>
-<h3 align="center">Blog</h3>
-
 
 <p align="center">
   <a href="https://haward.tistory.com/">
-    <img src="https://img.shields.io/badge/Haward Blog-B9ACDA?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Blog-B9ACDA?style=for-the-badge"/>
   </a>
 </p>
 
