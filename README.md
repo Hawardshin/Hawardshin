@@ -6,7 +6,9 @@
 ## Some of my Github Stats
 [![Gmail Badge](https://img.shields.io/badge/-wnddms12345@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wnddms12345@naver.com)](mailto:wnddms12345@naver.com) [![Github Badge](https://img.shields.io/badge/-hawardshin-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hawardshin/)](https://www.github.com/hawardshin/)[![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
-<p align=left> <img src=https://komarev.com/ghpvc/?username=hawardshin alt=hawardshin /> </p>
+<p align=left> <img src=https://komarev.com/ghpvc/?username=hawardshin alt=hawardshin /> 
+<a href="https://instagram.com/sj.eun"><img src="https://img.shields.io/badge/-@sj.eun-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/coderwhoknows/" alt="Instagram Badge"></a>
+</p>
 
 
 ## ✏️ Education
