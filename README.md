@@ -2,7 +2,9 @@
 
 <p align='left'>안녕하세요 신중은(조신)입니다.</p>
 <p align='left'>머리속 아이디어들을 현실로 만들 수 있도록 오늘도 열심히 공부합니다.</p>
-
+ <a href="https://haward.tistory.com/">
+    <img src="https://img.shields.io/badge/Haward Dev Blog-B9ACDA?style=for-the-badge"/>
+  </a>
 ## Contact me
 
 [![Gmail Badge](https://img.shields.io/badge/-wnddms12345@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wnddms12345@naver.com)](mailto:wnddms12345@naver.com) 
@@ -12,11 +14,8 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hawardshin alt=hawardshin /> 
 </p>
 
-<p align="center">
-  <a href="https://haward.tistory.com/">
-    <img src="https://img.shields.io/badge/Blog-B9ACDA?style=for-the-badge"/>
-  </a>
-</p>
+ 
+
 
 ## ✏️ Education
 <ul>
