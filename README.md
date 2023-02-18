@@ -9,7 +9,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hawardshin alt=hawardshin /> 
 </p>
 <a href="https://haward.tistory.com/">
-    <img src="https://img.shields.io/badge/Haward's code diary-B9ACDA?style=for-the-badge"/></a>
+    <img src="https://img.shields.io/badge/Haward's Code Circus-B9ACDA?style=for-the-badge"/></a>
  
 
 
