@@ -15,8 +15,9 @@
 
 ## ✏️ Education
 <ul>
-<li> Seoul National University of Science and Technology(Seoultech, 서울과학기술대학교), My major is Computer Engineering. (2023.03~ now)
+<li> Seoul National University of Science and Technology(Seoultech, 서울과학기술대학교)
   </li>
+<li>  My major is Computer Engineering. (2023.03~ now)</li>
 <li>  I changed my major to Computer Engineering.</li>
 <li> My previous major was Department of Mechanical System Design Engineering (2019.03 ~ 2019.12) + (2022.09 ~ 2022.12) </li>
 <li> 42Seoul La Piscine (2022.04 ~ 2022.05) </li>
