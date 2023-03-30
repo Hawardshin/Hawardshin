@@ -9,7 +9,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hawardshin alt=hawardshin /> 
 </p>
 
-## blog
+## My Study Blog
 
 <a href="https://haward.tistory.com/">
     <img src="https://img.shields.io/badge/Haward's Code Circus-B9ACDA?style=for-the-badge"/></a>
