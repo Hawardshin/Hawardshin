@@ -38,12 +38,7 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
 
 ###  42Seoul
-[![joushin's 42 
-stats](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
-
-### 42Pisine
-[![joushin's 42 
-stats](https://badge42.vercel.app/api/v2/cl569d6ww001609mq9ncw9mf8/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+[![joushin's 42 stats](https://badge.mediaplus.ma/colorfulwaves/joushin?UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 
