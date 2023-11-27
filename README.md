@@ -9,6 +9,8 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=hawardshin alt=hawardshin /> 
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/018bebe4-c2cb-4acb-bd4e-023755f3618b.svg)](https://wakatime.com/@018bebe4-c2cb-4acb-bd4e-023755f3618b)
+
 ## My Study Blog
 
 <a href="https://haward.tistory.com/">
