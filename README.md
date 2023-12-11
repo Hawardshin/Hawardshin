@@ -43,9 +43,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
 
 ###  42Seoul
-<p align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/joushin?1337Badge=off&UM6P=off" alt="joushin's 42 stats" /></a>
-</p>
+
 
 
 
