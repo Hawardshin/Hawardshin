@@ -26,7 +26,8 @@
 <li>  I changed my major to Computer Engineering.</li>
 <li> My previous major was Department of Mechanical System Design Engineering (2019.03 ~ 2019.12) + (2022.09 ~ 2022.12) </li>
 <li> 42Seoul La Piscine (2022.04 ~ 2022.05) </li>
-<li> 42Seoul Cadet (2022.7 ~ )</li>
+<li> 42Seoul Cadet (2022.7 ~ 2024.1)</li>
+<li> 42Seoul Member (2024.1 ~ now) </li>
 </ul>
 
 ## 🏆 AWARDS & CERT
