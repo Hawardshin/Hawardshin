@@ -6,8 +6,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-wnddms12345@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wnddms12345@naver.com)](mailto:wnddms12345@naver.com) 
 <a href="https://instagram.com/sj.eun"><img src="https://img.shields.io/badge/-@sj.eun-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/coderwhoknows/" alt="Instagram Badge"></a>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
-<p align=left> <img src=https://komarev.com/ghpvc/?username=hawardshin alt=hawardshin /> 
-</p>
 
 [![wakatime](https://wakatime.com/badge/user/018bebe4-c2cb-4acb-bd4e-023755f3618b.svg)](https://wakatime.com/@018bebe4-c2cb-4acb-bd4e-023755f3618b)
 
