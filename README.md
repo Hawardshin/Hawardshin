@@ -10,7 +10,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 
 ### GitHub contribution graph
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" height="auto">
 
 ### baekjoon
 
