@@ -1,5 +1,10 @@
 ## Hey 👋, This is haward(joushin)
 
+### GitHub contribution graph
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 ## Contact me
  
  
@@ -46,7 +51,4 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/joushin?1337Badge=off&UM6P=off" alt="joushin's 42 stats" /></a>
 
 
-### GitHub contribution graph
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 
