@@ -22,6 +22,11 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 </ul>
 
 
+## 📝 My Study Blog
+
+- [Haward's Code Circus](https://haward.tistory.com/): My journey through coding, technology, and beyond.
+ 
+
 ### GitHub contribution graph
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" height="auto">
@@ -34,11 +39,6 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 ###  42Seoul
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/joushin?1337Badge=off&UM6P=off" alt="joushin's 42 stats" /></a>
 
-
-## 📝 My Study Blog
-
-- [Haward's Code Circus](https://haward.tistory.com/): My journey through coding, technology, and beyond.
- 
 
 
 
