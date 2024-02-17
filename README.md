@@ -1,10 +1,4 @@
 ## Hey 👋, This is haward(joushin)
-
-### GitHub contribution graph
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-
 ## Contact me
  
  
@@ -13,6 +7,12 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
 
 [![wakatime](https://wakatime.com/badge/user/018bebe4-c2cb-4acb-bd4e-023755f3618b.svg)](https://wakatime.com/@018bebe4-c2cb-4acb-bd4e-023755f3618b)
+
+### GitHub contribution graph
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
 
 ## My Study Blog
 
