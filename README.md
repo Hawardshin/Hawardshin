@@ -1,11 +1,11 @@
 # 👋 Hey, This is Haward (Joushin)
-
+[![wakatime](https://wakatime.com/badge/user/018bebe4-c2cb-4acb-bd4e-023755f3618b.svg)](https://wakatime.com/@018bebe4-c2cb-4acb-bd4e-023755f3618b)
 Welcome to my GitHub profile! Feel free to explore my repositories, check out my contributions, and reach out if you have any questions or collaborations in mind.
 ## 📫 Contact Information
 
 - [![Gmail Badge](https://img.shields.io/badge/-wnddms12345@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wnddms12345@naver.com)](mailto:wnddms12345@naver.com) 
 - <a href="https://instagram.com/sj.eun"><img src="https://img.shields.io/badge/-@sj.eun-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/coderwhoknows/" alt="Instagram Badge"></a>
-- [![wakatime](https://wakatime.com/badge/user/018bebe4-c2cb-4acb-bd4e-023755f3618b.svg)](https://wakatime.com/@018bebe4-c2cb-4acb-bd4e-023755f3618b)
+- 
 
 ### GitHub contribution graph
 
