@@ -12,9 +12,16 @@
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
+### baekjoon
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
+
+###  42Seoul
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/joushin?1337Badge=off&UM6P=off" alt="joushin's 42 stats" /></a>
 
 
-## My Study Blog
+### My Study Blog
 
 <a href="https://haward.tistory.com/">
     <img src="https://img.shields.io/badge/Haward's Code Circus-B9ACDA?style=for-the-badge"/></a>
@@ -42,13 +49,6 @@
  <li>학생회 텀프로젝트 경진대회 3위</li>
 </ul>
 
-### baekjoon
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
-
-###  42Seoul
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/joushin?1337Badge=off&UM6P=off" alt="joushin's 42 stats" /></a>
 
 
 
