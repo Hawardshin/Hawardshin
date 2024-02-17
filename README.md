@@ -31,7 +31,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 
 ### GitHub contribution graph
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="90%" height="auto">
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="70%" height="auto">
 
 ### baekjoon
 
