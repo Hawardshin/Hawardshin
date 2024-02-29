@@ -8,8 +8,7 @@
 Welcome to my GitHub profile! Feel free to explore my repositories, check out my contributions, and reach out if you have any questions or collaborations in mind.
 
 ## 🎓 Education
-- Seoul National University of Science and Technology (Seoultech), Computer Engineering, 2023 - Present.
-- Transitioned from Department of Mechanical System Design Engineering, 2019 & 2022.
+- Seoul National University of Science and Technology (Seoultech), Computer Engineering
 - 42Seoul Cadet (2022.7 ~ 2024.1)
 - 42Seoul Member (2024.1 ~ Present).
 
