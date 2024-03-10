@@ -28,9 +28,6 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 - [Haward's Code Circus](https://haward.tistory.com/): My journey through coding, technology, and beyond.
  
 
-### GitHub contribution graph
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="70%" height="auto">
 
 ### baekjoon
 
