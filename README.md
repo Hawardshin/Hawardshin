@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 - Seoul National University of Science and Technology (Seoultech), Computer Engineering
 - 42Seoul Cadet (2022.7 ~ 2024.1)
 - 42Seoul Member (2024.1 ~ Present)
-- DevOcean Young 3th (2024.3 ~ Present)
+- DevOcean Young (2024.3 ~ Present)
 
 
 ## 🏅 Awards & Certifications
