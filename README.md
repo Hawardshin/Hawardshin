@@ -21,6 +21,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
  <li>서울과학기술대학교 컴퓨터공학과 LINC 3.0 프로그래밍 경진대회 CSPC 2023 우수상 </li>
  <li>2023 "도전 창업왕중왕전" ST캠퍼스 창업오디션 최우수상</li>
  <li>학생회 텀프로젝트 경진대회 3위</li>
+ <li>SQL 개발자 (SQLD : Structured Query Language Developer)</li>
 </ul>
 
 
