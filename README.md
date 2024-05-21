@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 
 ## ▎🎓 Education
 - Seoul National University of Science and Technology (Seoultech), Computer Engineering
-- 42Seoul Cadet (2022.7 ~ 2024.1)
+- 42Seoul learner (2022.7 ~ 2024.1)
 - 42Seoul Member (2024.1 ~ Present)
 - SK Telecom DevOcean Young (2024.3 ~ Present)
 
