@@ -30,6 +30,8 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
  <li>2023 "도전 창업왕중왕전" ST캠퍼스 창업오디션 최우수상</li>
  <li>학생회 텀프로젝트 경진대회 3위</li>
  <li>SQL 개발자 (SQLD : Structured Query Language Developer)</li>
+ <a href="https://www.credly.com/badges/087dd42f-2558-435f-896f-0999b0aca854/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
+ 
 </ul>
 
 
