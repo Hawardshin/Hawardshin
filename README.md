@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 - 42Seoul Learner (2022.7 ~ 2024.1)
 - 42Seoul Member (2024.1 ~ Present)
 - SK Telecom DevOcean Young (2024.3 ~ Present)
-
+- Kakao Techcampus Backend 실습코치 (2024.6~ 2024.8)
 
 ## ▎ 🏅 Awards & Certifications
 <ul>
