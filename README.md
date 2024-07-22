@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 | Webserv<br/>(2023.06~2023.08)          | C++로 만든 웹서버               | [Repository](https://github.com/42masterplan/webserv)                                                                          | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | MiniShell<br/>(2022.9~2022.10)         | Bash Shell 을 따라서 만든 작은 쉘  | [Repository](https://github.com/Hawardshin/Minishell)                                                                          | ![C](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-## ▎🎓 Education
+## ▎🎓 Education & Relevant Activities
 - Seoul National University of Science and Technology (Seoultech), Computer Engineering
 - 42Seoul Learner (2022.7 ~ 2024.1)
 - 42Seoul Member (2024.1 ~ Present)
