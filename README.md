@@ -36,7 +36,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 
 ## ▎ 📝 My Study Blog
 
-- [조신중 블로그](https://joushin.tistory.com): My journey through coding, technology, and beyond.
+- [개발은 차갑다](https://haward.tistory.com): My journey through coding, technology, and beyond.
  
 
 
