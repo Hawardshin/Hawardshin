@@ -1,6 +1,5 @@
 
 # 👋 Hey, This is Haward (신중은)
-[![wakatime](https://wakatime.com/badge/user/018bebe4-c2cb-4acb-bd4e-023755f3618b.svg)](https://wakatime.com/@018bebe4-c2cb-4acb-bd4e-023755f3618b)
 [![Gmail Badge](https://img.shields.io/badge/-wnddms12345@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wnddms12345@naver.com)](mailto:wnddms12345@naver.com) 
 <a href="https://instagram.com/sj.eun"><img src="https://img.shields.io/badge/-@sj.eun-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/coderwhoknows/" alt="Instagram Badge"></a>
 <br/>
