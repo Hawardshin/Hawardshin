@@ -8,8 +8,8 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 ## ▎🎓 Education & Relevant Activities
 - Seoul National University of Science and Technology (Seoultech), Computer Engineering
 - 42Seoul Learner (2022.7 ~ 2024.1)
-- 42Seoul Member (2024.1 ~ Present)
-- SK Telecom DevOcean Young (2024.3 ~ Present)
+- 42Seoul Member (2024.1 ~ 2025.1)
+- SK Telecom DevOcean Young (2024.3 ~ 2024.12)
 - Kakao Techcampus Backend 실습코치 (2024.6~ 2024.8)
 - Blue Solutions Intern (2024.12~2025.2)
 
