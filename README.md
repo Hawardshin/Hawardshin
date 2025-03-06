@@ -11,6 +11,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 - 42Seoul Member (2024.1 ~ Present)
 - SK Telecom DevOcean Young (2024.3 ~ Present)
 - Kakao Techcampus Backend 실습코치 (2024.6~ 2024.8)
+- Blue Solutions Intern 2024.12~2025.2
 
 ## ▎ 🏅 Awards & Certifications
 <ul>
@@ -21,6 +22,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
  <li>학생회 텀프로젝트 경진대회 3위</li>
  <li>서울과기대 동아리 연합 해커톤 SNUSTHON 대상 </li>
  <li>SQL 개발자 (SQLD : Structured Query Language Developer)</li>
+ <li>TOEIC Speaking IH Level  </li>
  <a href="https://www.credly.com/badges/087dd42f-2558-435f-896f-0999b0aca854/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
  
 </ul>
