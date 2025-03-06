@@ -11,7 +11,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 - 42Seoul Member (2024.1 ~ Present)
 - SK Telecom DevOcean Young (2024.3 ~ Present)
 - Kakao Techcampus Backend 실습코치 (2024.6~ 2024.8)
-- Blue Solutions Intern 2024.12~2025.2
+- Blue Solutions Intern (2024.12~2025.2)
 
 ## ▎ 🏅 Awards & Certifications
 <ul>
