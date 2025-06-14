@@ -1,7 +1,6 @@
 
 # 👋 Hey, This is Haward (신중은)
 [![Gmail Badge](https://img.shields.io/badge/-wnddms12345@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wnddms12345@naver.com)](mailto:wnddms12345@naver.com) 
-<a href="https://instagram.com/sj.eun"><img src="https://img.shields.io/badge/-@sj.eun-purple?style=flat&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/coderwhoknows/" alt="Instagram Badge"></a>
 <br/>
 <br/>
 Welcome to my GitHub profile! Feel free to explore my repositories, check out my contributions, and reach out if you have any questions or collaborations in mind.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
