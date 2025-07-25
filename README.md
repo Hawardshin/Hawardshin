@@ -11,6 +11,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 - SK Telecom DevOcean Young (2024.3 ~ 2024.12)
 - Kakao Techcampus Backend 실습코치 (2024.6~ 2024.8)
 - Blue Solutions Intern (2024.12~2025.2)
+- open source contribution academy (2025.04~2025.06)
 
 ## ▎ 🏅 Awards & Certifications
 <ul>
