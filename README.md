@@ -19,7 +19,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
  <li>2019 국제로봇컨테스트(IRC 2019) 본선 휴머로이드 로봇 스포츠 지능형 하이테크 부문 국가기술표준원장상 </li>
  <li>서울과학기술대학교 컴퓨터공학과 LINC 3.0 프로그래밍 경진대회 CSPC 2023 우수상 </li>
  <li>2023 "도전 창업왕중왕전" ST캠퍼스 창업오디션 최우수상</li>
- <li>학생회 텀프로젝트 경진대회 3위</li>
+ <li>2023,2024 학생회 텀프로젝트 경진대회 3위</li>
  <li>서울과기대 동아리 연합 해커톤 SNUSTHON 대상 </li>
  <li>SQL 개발자 (SQLD : Structured Query Language Developer)</li>
  <li>TOEIC Speaking IH Level  </li>
