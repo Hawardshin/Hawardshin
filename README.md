@@ -9,9 +9,9 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 - 42Seoul Learner (2022.7 ~ 2024.1)
 - 42Seoul Member (2024.1 ~ 2025.1)
 - SK Telecom DevOcean Young (2024.3 ~ 2024.12)
-- Kakao Techcampus Backend 실습코치 (2024.6~ 2024.8)
-- Blue Solutions Intern (2024.12~2025.2)
-- open source contribution academy Redis mentee (2025.04~2025.06)
+- Kakao Techcampus Backend 실습코치 (2024.6 ~ 2024.8)
+- Blue Solutions Intern (2024.12 ~ 2025.2)
+- open source contribution academy Redis mentee (2025.04 ~ 2025.06)
 
 ## ▎ 🏅 Awards & Certifications
 <ul>
