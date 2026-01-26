@@ -24,8 +24,7 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
  <li>SQL 개발자 (SQLD : Structured Query Language Developer)</li>
 
  <a href="https://www.credly.com/badges/087dd42f-2558-435f-896f-0999b0aca854/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9d551979-b681-4207-a0db-0fd3fac95588" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<a href="https://www.credly.com/badges/9d551979-b681-4207-a0db-0fd3fac95588/public_url"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100"></a>
 </ul>
 
 
