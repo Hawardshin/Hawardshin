@@ -1,5 +1,5 @@
 
-# 👋 Hey, This is Haward (신중은)
+# 👋 Hey, This is Haward
 [![Gmail Badge](https://img.shields.io/badge/-wnddms12345@naver.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wnddms12345@naver.com)](mailto:wnddms12345@naver.com) 
 <br/>
 <br/>
