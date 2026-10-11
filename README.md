@@ -28,10 +28,11 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 </ul>
 
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnddms12345)](https://solved.ac/wnddms12345)
 
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/kettlebells/joushin?1337Badge=off&UM6P=off" alt="joushin's 42 stats" /></a>
+
+ <a href="https://github.com/oakoudad/badge42"> <img src="https://badge.mediaplus.ma/kettlebells/joushin?1337Badge=off&UM6P=off" alt="joushin's 42 stats" />  </a>
+
 
 ![haward's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=HawardShin&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 
