@@ -5,20 +5,6 @@
 <br/>
 Welcome to my GitHub profile! Feel free to explore my repositories, check out my contributions, and reach out if you have any questions or collaborations in mind.                                                                                                                                                                                                                                                                          
 
-<ul>
-  <a href="https://www.credly.com/badges/a0aff13c-9d63-4916-b10f-3f2663dd0e84/public_url"><img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100"></a>
-  <br/>
-  <a href="https://www.credly.com/badges/8624ce22-c70a-4f15-bd70-f8ecb8b7cfd4/public_url"><img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="100"></a>
- <a href="https://www.credly.com/badges/ef0dc9ea-8ffc-4127-ae94-a23891a19baf/public_url"><img src="https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="100"></a>
- <a href="https://www.credly.com/badges/087dd42f-2558-435f-896f-0999b0aca854/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
-<br/>
-<a href="https://www.credly.com/badges/9d551979-b681-4207-a0db-0fd3fac95588/public_url"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100"></a>
-<br/>
-<a href="https://www.credly.com/badges/9689bd49-06f0-46a9-9838-2302498ccd0f/public_url"><img src="https://images.credly.com/size/340x340/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="100"></a>
-  
-
-</ul>
-
 
 ## ▎ 📝 My Study Blog
 
@@ -36,7 +22,18 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 ![haward's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=HawardShin&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 
 
-
+<ul>
+  <a href="https://www.credly.com/badges/a0aff13c-9d63-4916-b10f-3f2663dd0e84/public_url"><img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100"></a>
+  <br/>
+  <a href="https://www.credly.com/badges/8624ce22-c70a-4f15-bd70-f8ecb8b7cfd4/public_url"><img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="100"></a>
+ <a href="https://www.credly.com/badges/ef0dc9ea-8ffc-4127-ae94-a23891a19baf/public_url"><img src="https://images.credly.com/size/110x110/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="100"></a>
+ <a href="https://www.credly.com/badges/087dd42f-2558-435f-896f-0999b0aca854/public_url"><img src="https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100"></a>
+<br/>
+<a href="https://www.credly.com/badges/9d551979-b681-4207-a0db-0fd3fac95588/public_url"><img src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100"></a>
+<br/>
+<a href="https://www.credly.com/badges/9689bd49-06f0-46a9-9838-2302498ccd0f/public_url"><img src="https://images.credly.com/size/340x340/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="100"></a>
+  
+</ul>
 
 
 
