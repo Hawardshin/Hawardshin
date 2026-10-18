@@ -15,6 +15,8 @@ Welcome to my GitHub profile! Feel free to explore my repositories, check out my
 
 ## ▎ 📊 My Stats
 <ul>
+ <a href ="https://www.credly.com/badges/a136df58-5a4d-4f39-ac4f-e804243a2fb4/linked_in_profile">
+  <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100"></a>
   <a href="https://www.credly.com/badges/a0aff13c-9d63-4916-b10f-3f2663dd0e84/public_url"><img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100"></a>
   <br/>
   <a href="https://www.credly.com/badges/8624ce22-c70a-4f15-bd70-f8ecb8b7cfd4/public_url"><img src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="100"></a>
